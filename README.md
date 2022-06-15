@@ -1,20 +1,14 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Msdyn365 Commerce online
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## License
+License is listed in the [LICENSE](./LICENSE) file.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Starter kit license
+License for starter kit is listed in the [LICENSE](./module-library/LICENSE) file of starter pack.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Online Documentaiton
+Please refer to our [Online documentation](https://docs.microsoft.com/en-us/dynamics365/commerce/e-commerce-extensibility/sdk-getting-started) for getting started guide and environment setup.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## Third party Image and Video Usage restrictions
+
+The software may include third party images and videos that are for personal use only and may not be copied except as provided by Microsoft within the demo websites.  You may install and use an unlimited number of copies of the demo websites., You may not publish, rent, lease, lend, or redistribute any images or videos without authorization from the rights holder, except and only to the extent that the applicable copyright law expressly permits doing so.
